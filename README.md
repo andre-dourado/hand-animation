@@ -4,10 +4,8 @@
   </a>
 </p>
 
-#### :information_source: About
+### :information_source: About
 Just an animation of a hand simulating a loading. 🙃
 
-#### :memo: Credits
+### :memo: Credits
 This project was made for learning purposes using the example of [Jaromir Kavan](https://dribbble.com/shots/1945392).
-
----

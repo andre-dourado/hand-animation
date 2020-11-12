@@ -1,6 +1,6 @@
 <p align="center">
   <a href=" https://andrewdourado.github.io/hand-animation/" target="_blank">
-    <img alt="Demo" src="https://res.cloudinary.com/andredourado/image/upload/v1605209687/shared/view-demo_u7t8sb.png" width="250">
+    <img alt="Demo" src="https://res.cloudinary.com/andredourado/image/upload/v1605209687/shared/view-demo_u7t8sb.png">
   </a>
 </p>
 
